@@ -6,3 +6,5 @@ Library of components by me.
 
 - Navbar
   - Navbar_tailwind
+- Footer
+  - Footer_tailwind
